@@ -24,9 +24,11 @@
   },
   "homepage": "https://github.com/GiovanniLeonardo/npm#readme",
   "dependencies": {
-    "npm_assignment": "^1.0.0",
-    "express": "^4.16.0",
     "body-parser": "^1.18.0",
+    "express": "^4.16.0",
+    "express-handlebars": "^3.0.0",
+    "npm_assignment": "^1.0.0",
+    "request": "^2.88.0",
     "weather-js": "^2.0.0"
   }
 }
